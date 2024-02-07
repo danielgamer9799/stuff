@@ -2801,7 +2801,7 @@ const emojiMatchThemes = {
     present: "💩",
     miss: "🧻",
   },
-  test: {
+  tests: {
     match: "🔒",
     present: "🔒",
     miss: "🔒",
